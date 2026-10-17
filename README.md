@@ -37,6 +37,6 @@ I build ML systems with a focus on applied AI and computer vision. Recent work: 
 ### Reach me
 
 - Email: mohanad212003@gmail.com
-- LinkedIn: [mohanad-amr-5a50952ab](https://www.linkedin.com/in/mohanad-amr-5a50952ab/)
+- LinkedIn: [mohanad-amrrr](https://www.linkedin.com/in/mohanad-amrrr)
 
 Open to ML Engineer, Data Scientist, and AI Engineer roles — remote-friendly, Cairo-based, or open to relocation.
